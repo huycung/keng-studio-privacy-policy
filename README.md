@@ -1,2 +1,2 @@
-# qr-safe-privacy-policy
-Privacy policy for QR Safe app
+# keng-studio-privacy-policy
+Privacy policy for Keng Studio
